@@ -1,0 +1,6 @@
+User: Angel Kwatra | Medicine:  | Dosage:  | Time:  | Frequency: 
+User: Tushar | Medicine: gdj | Dosage: 2 tabs, 60 mg | Time: 04:17 PM | Frequency: daily
+User: Nakul | Medicine: igvu | Dosage: 2 tabs | Time: 01:58 PM | Frequency: daily
+User: Nakul | Medicine: ohiei | Dosage: 50mg 2 tabs | Time: 10:10 AM | Frequency: daily
+User: Apoorv Bansal | Medicine: paracetamol | Dosage: 650 mg, 2 tabs | Time: 04:44 PM | Frequency: daily
+User: Nakul | Medicine: pcm | Dosage: 650mg, 2 tabs | Time: 05:28 PM | Frequency: daily
