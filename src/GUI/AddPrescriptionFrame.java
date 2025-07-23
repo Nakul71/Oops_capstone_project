@@ -12,7 +12,7 @@ public class AddPrescriptionFrame extends JFrame {
 
     public AddPrescriptionFrame(String username) {
         fileHandler = new PrescriptionFileHandler();
-        setTitle("Add Prescription");
+        setTitle("Add Prescription -> ");
         setSize(400, 350);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
